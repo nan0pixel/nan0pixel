@@ -1,5 +1,8 @@
 ## hallo 👋
 
+novice programmer and puzzles enthusiast
+am currently working on a Discord bot akin to [WordleBot](https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html) but for the six-letter Co-ordle
+
 <!--
 **nan0pixel/nan0pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
