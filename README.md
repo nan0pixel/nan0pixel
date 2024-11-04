@@ -1,6 +1,6 @@
 ## hallo 👋
 
-novice programmer and puzzles enthusiast
+novice programmer and puzzles enthusiast<br>
 am currently working on a Discord bot akin to [WordleBot](https://www.nytimes.com/interactive/2022/upshot/wordle-bot.html) but for the six-letter Co-ordle
 
 <!--
